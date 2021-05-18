@@ -1,0 +1,9 @@
+c:\users\icaro a. oliveira\source\repos\GbSet\GbSet\bin\Release\GbSet.exe
+c:\users\icaro a. oliveira\source\repos\GbSet\GbSet\bin\Release\GbSet.pdb
+c:\users\icaro a. oliveira\source\repos\GbSet\GbSet\obj\Release\GbSet.Properties.Resources.resources
+c:\users\icaro a. oliveira\source\repos\GbSet\GbSet\obj\Release\GbSet.csproj.GenerateResource.cache
+c:\users\icaro a. oliveira\source\repos\GbSet\GbSet\obj\Release\GbSet.csproj.CoreCompileInputs.cache
+c:\users\icaro a. oliveira\source\repos\GbSet\GbSet\obj\Release\GbSet.exe
+c:\users\icaro a. oliveira\source\repos\GbSet\GbSet\obj\Release\GbSet.pdb
+c:\users\icaro a. oliveira\source\repos\GbSet\GbSet\obj\Release\GbSet.GbSetView.resources
+c:\users\icaro a. oliveira\source\repos\GbSet\GbSet\obj\Release\GbSet.csprojAssemblyReference.cache
