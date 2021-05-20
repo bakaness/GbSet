@@ -1,0 +1,12 @@
+C:\Users\Icaro A. Oliveira\source\repos\GbSet\GbSet\bin\x86\Release\GbSet.exe
+C:\Users\Icaro A. Oliveira\source\repos\GbSet\GbSet\bin\x86\Release\GbSet.pdb
+C:\Users\Icaro A. Oliveira\source\repos\GbSet\GbSet\obj\x86\Release\GbSet.csprojAssemblyReference.cache
+C:\Users\Icaro A. Oliveira\source\repos\GbSet\GbSet\obj\x86\Release\GbSet.GbSetView.resources
+C:\Users\Icaro A. Oliveira\source\repos\GbSet\GbSet\obj\x86\Release\GbSet.Properties.Resources.resources
+C:\Users\Icaro A. Oliveira\source\repos\GbSet\GbSet\obj\x86\Release\GbSet.csproj.GenerateResource.cache
+C:\Users\Icaro A. Oliveira\source\repos\GbSet\GbSet\obj\x86\Release\GbSet.csproj.CoreCompileInputs.cache
+C:\Users\Icaro A. Oliveira\source\repos\GbSet\GbSet\obj\x86\Release\GbSet.exe
+C:\Users\Icaro A. Oliveira\source\repos\GbSet\GbSet\obj\x86\Release\GbSet.pdb
+C:\Users\Icaro A. Oliveira\source\repos\GbSet\GbSet\bin\x86\Release\INIFileParser.dll
+C:\Users\Icaro A. Oliveira\source\repos\GbSet\GbSet\bin\x86\Release\INIFileParser.xml
+C:\Users\Icaro A. Oliveira\source\repos\GbSet\GbSet\obj\x86\Release\GbSet.csproj.CopyComplete
